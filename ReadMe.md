@@ -1,6 +1,12 @@
 # 💫 About Me:
- A passionate frontend developer currently honing my skills in JavaScript. I love building interactive and responsive web applications, and I'm currently working on a weather app. Always eager to learn and explore new technologies to enhance user experiences.
-
+ 🔭 I’m currently working on frontend development projects, including a weather app using JavaScript.
+🌱 I’m currently learning advanced JavaScript and improving my GitHub profile.
+👯 I’m looking to collaborate on exciting frontend projects and open-source contributions.
+🤔 I’m looking for help with optimizing JavaScript performance and best practices.
+💬 Ask me about web development, JavaScript, and frontend design.
+📫 How to reach me: [Your Email or LinkedIn/GitHub profile link]
+😄 Pronouns: She/Her
+⚡ Fun fact: I love exploring UI/UX trends and enjoy designing creative web interfaces!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bismaumar_) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/bismaumar0092) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bismaumar001@gmail.com) 
