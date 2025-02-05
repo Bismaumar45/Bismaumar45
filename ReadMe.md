@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on frontend development projects, including a weather app using JavaScript.
+🔭 I’m currently working on frontend development projects, including a weather app using JavaScript.
 🌱 I’m currently learning advanced JavaScript and improving my GitHub profile.
 👯 I’m looking to collaborate on exciting frontend projects and open-source contributions.
 🤔 I’m looking for help with optimizing JavaScript performance and best practices.
