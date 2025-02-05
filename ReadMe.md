@@ -1,10 +1,15 @@
 # 💫 About Me:
 🔭 I’m currently working on frontend development projects, including a weather app using JavaScript.
+
 🌱 I’m currently learning advanced JavaScript and improving my GitHub profile.
+
 👯 I’m looking to collaborate on exciting frontend projects and open-source contributions.
+
 🤔 I’m looking for help with optimizing JavaScript performance and best practices.
+
 💬 Ask me about web development, JavaScript, and frontend design.
-📫 How to reach me: [Your Email or LinkedIn/GitHub profile link]
+
+📫 How to reach me: bismaumar001@gmail.com
 😄 Pronouns: She/Her
 ⚡ Fun fact: I love exploring UI/UX trends and enjoy designing creative web interfaces!
 
